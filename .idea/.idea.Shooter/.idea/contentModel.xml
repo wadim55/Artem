@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\four\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\four\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_Shooter.-2021350640.00" t="ExcludeRecursive" />
+    <e p="C:\work\Learn\ilia005\Village\Village\Shooter" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="FieldOfView" t="Include">
+          <e p="Core" t="Include">
+            <e p="Scripts" t="Include">
+              <e p="Editor" t="Include">
+                <e p="FieldOfViewConfigurationEditor.cs" t="Include" />
+                <e p="FieldOfViewSkinEditor.cs" t="Include" />
+                <e p="SkinMaterialBuilder.cs" t="Include" />
+              </e>
+              <e p="FieldOfView.cs" t="Include" />
+            </e>
+            <e p="Shaders" t="Include">
+              <e p="SkinSwapShader.shader" t="Include" />
+            </e>
+          </e>
+          <e p="Demo" t="Include">
+            <e p="DevGuideDemo" t="Include">
+              <e p="Scripts" t="Include">
+                <e p="Coin.cs" t="Include" />
+                <e p="Enemy.cs" t="Include" />
+                <e p="GameStateManager.cs" t="Include" />
+                <e p="Player.cs" t="Include" />
+              </e>
+            </e>
+            <e p="PerformanceTest" t="Include">
+              <e p="Scripts" t="Include">
+                <e p="FpsMeter.cs" t="Include" />
+                <e p="Spawner.cs" t="Include" />
+              </e>
+            </e>
+            <e p="SimpleGame" t="Include">
+              <e p="Scripts" t="Include">
+                <e p="EnemyController.cs" t="Include" />
+                <e p="GameManager.cs" t="Include" />
+                <e p="PathVisualizer.cs" t="Include" />
+                <e p="PlayerController.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="NavMeshComponents" t="Include">
+            <e p="Editor" t="Include">
+              <e p="NavMeshAssetManager.cs" t="Include" />
+              <e p="NavMeshComponentsEditor.asmdef" t="Include" />
+              <e p="NavMeshComponentsGUIUtility.cs" t="Include" />
+              <e p="NavMeshLinkEditor.cs" t="Include" />
+              <e p="NavMeshModifierEditor.cs" t="Include" />
+              <e p="NavMeshModifierVolumeEditor.cs" t="Include" />
+              <e p="NavMeshSurfaceEditor.cs" t="Include" />
+            </e>
+            <e p="Scripts" t="Include">
+              <e p="NavMeshComponents.asmdef" t="Include" />
+              <e p="NavMeshLink.cs" t="Include" />
+              <e p="NavMeshModifier.cs" t="Include" />
+              <e p="NavMeshModifierVolume.cs" t="Include" />
+              <e p="NavMeshSurface.cs" t="Include" />
+              <e p="Player.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Realistic Effects Pack" t="Include">
+          <e p="Readme.txt" t="Include" />
+          <e p="Scripts" t="Include">
+            <e p="Demo" t="Include">
+              <e p="MyGui.cs" t="Include" />
+            </e>
+            <e p="Prefabs" t="Include">
+              <e p="Balls" t="Include">
+                <e p="AddMaterialOnHit.cs" t="Include" />
+                <e p="LazyLoad.cs" t="Include" />
+                <e p="ProjectileCollisionBehaviour.cs" t="Include" />
+              </e>
+              <e p="Buffs" t="Include">
+                <e p="ShieldCollisionBehaviour.cs" t="Include" />
+                <e p="WaterUvAnimation.cs" t="Include" />
+                <e p="WaterWaveUvAnimation.cs" t="Include" />
+              </e>
+              <e p="Shots" t="Include">
+                <e p="LineRendererBehaviour.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Share" t="Include">
+              <e p="CollisionActiveBehaviour.cs" t="Include" />
+              <e p="DeadTime.cs" t="Include" />
+              <e p="DistortionMobile.cs" t="Include" />
+              <e p="EffectSettings.cs" t="Include" />
+              <e p="FadeInOutLight.cs" t="Include" />
+              <e p="FadeInOutParticles.cs" t="Include" />
+              <e p="FadeInOutScale.cs" t="Include" />
+              <e p="FadeInOutShaderColor.cs" t="Include" />
+              <e p="FadeInOutShaderFloat.cs" t="Include" />
+              <e p="FadeInOutStatus.cs" t="Include" />
+              <e p="FixShaderQueue.cs" t="Include" />
+              <e p="OnStartSendCollision.cs" t="Include" />
+              <e p="QueueUvAnimation.cs" t="Include" />
+              <e p="RandomRotate.cs" t="Include" />
+              <e p="UVTextureAnimator.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Shaders" t="Include">
+            <e p="AlphaBlended.shader" t="Include" />
+            <e p="AlphaBlendedNoSmooth.shader" t="Include" />
+            <e p="DiffuseRim.shader" t="Include" />
+            <e p="Distortion" t="Include">
+              <e p="DistortionCullBack.shader" t="Include" />
+              <e p="DistortionCullOff.shader" t="Include" />
+              <e p="DistortionParticlesCutout.shader" t="Include" />
+              <e p="Free" t="Include">
+                <e p="FreeDistortionCullBack.shader" t="Include" />
+                <e p="FreeDistortionCullOff.shader" t="Include" />
+                <e p="FreeDistortionCutOut.shader" t="Include" />
+              </e>
+            </e>
+            <e p="Explosion.shader" t="Include" />
+            <e p="GlowAdditive.shader" t="Include" />
+            <e p="GlowAdditiveSimple.shader" t="Include" />
+            <e p="GlowAdditiveTwoColor.shader" t="Include" />
+            <e p="Matrix" t="Include">
+              <e p="Additive.shader" t="Include" />
+              <e p="GlowAdditive.shader" t="Include" />
+              <e p="GlowAdditiveSimple.shader" t="Include" />
+            </e>
+            <e p="Mobile" t="Include">
+              <e p="Distortion" t="Include">
+                <e p="DistortionCullBack.shader" t="Include" />
+                <e p="DistortionCullOff.shader" t="Include" />
+                <e p="DistortionParticlesCutout.shader" t="Include" />
+              </e>
+              <e p="Water.shader" t="Include" />
+            </e>
+            <e p="ParticleAdd.shader" t="Include" />
+            <e p="ParticleAddNoSmooth.shader" t="Include" />
+            <e p="Particles.shader" t="Include" />
+            <e p="Rim.shader" t="Include" />
+            <e p="Water.shader" t="Include" />
+            <e p="WaterFree.shader" t="Include" />
+          </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="AudioManager.cs" t="Include" />
+          <e p="EnemyTakeDamage.cs" t="Include" />
+          <e p="EVENT.cs" t="Include" />
+          <e p="NewBehaviourScript.cs" t="Include" />
+          <e p="Shooter.cs" t="Include" />
+        </e>
+      </e>
+      <e p="NavMeshComponents.csproj" t="IncludeRecursive" />
+      <e p="NavMeshComponentsEditor.csproj" t="IncludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Shooter.sln" t="IncludeFlat" />
+      <e p="Temp\Bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
